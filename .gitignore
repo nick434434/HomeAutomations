@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Specific to this repo usage locally (e.g. generating many .txt files)
+*.txt
+
 # Distribution / packaging
 .Python
 build/
